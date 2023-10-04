@@ -1,8 +1,8 @@
+![logo](https://github.com/Sardar-Sadiq/Sardar-Sadiq/blob/master/png%20banner.png)
 <h1 align="center">Hi 👋, I'm Sardar Sadiq</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding"width="400"src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sardar-sadiq&label=Profile%20views&color=0e75b6&style=flat" alt="sardar-sadiq" /> </p>
-
 
 
 - 🌱 I’m currently learning **React,gsap**
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sardar-sadiq&show_icons=true&locale=en" alt="sardar-sadiq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sardar-sadiq&" alt="sardar-sadiq" /></p>
-
