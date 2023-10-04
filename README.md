@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,gsap**
 
-- 👨‍💻 All of my projects are available at [sardarsadiq](sardarsadiq.netlify.app)
+- 👨‍💻 All of my projects are available at [sardarsadiq]([https://sardar-sadiq.github.io/Portfolio/])
 
 - 💬 Ask me about **react,sass,bootstrap**
 
