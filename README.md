@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sardar-sadiq&label=Profile%20views&color=0e75b6&style=flat" alt="sardar-sadiq" /> </p>
 
 
-- 🌱 I’m currently learning **React,gsap**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [sardarsadiq.netlify.app](https://sardarsadiq.netlify.app)
 
-- 💬 Ask me about **react,sass,bootstrap**
+- 💬 Ask me about **react,sass,bootstrap,gsap, js animations**
 
 - 📫 How to reach me **sardarsadiq001@gmail.com**
 
