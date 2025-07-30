@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sardar-sadiq&label=Profile%20views&color=0e75b6&style=flat" alt="sardar-sadiq" /> </p>
 
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend**, **AL/ML**, **DESIGNING**
 
-- 👨‍💻 All of my projects are available at [sardarsadiq.netlify.app](https://sardarsadiq.netlify.app)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://sardarportfolio.netlify.app/) & HERE!!
 
 - 💬 Ask me about **react,sass,bootstrap,gsap, js animations**
 
