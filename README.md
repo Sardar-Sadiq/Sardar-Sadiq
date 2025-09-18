@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **BACKEND**, **AL/ML**, **DESIGNING**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://sardarportfolio.netlify.app/) & HERE!!
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://sardarportfolio.netlify.app/) & GITHUB !!
 
 - 💬 Ask me about **react,sass,bootstrap,gsap, js animations**
 
